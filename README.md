@@ -17,4 +17,4 @@ The git helpers are mostly shorthand for common day to day tasks;
 - pull: `git pull --rebase`
 - push: `git push`
 
-Most are very basic, and some just reinforce a working methodology that I like to stick to, like re-baseing on *pull*s. You can also really speed things up by linking shorthands; `addall;amend` or `pull;push`.
+Most are very basic, and some just reinforce a working methodology that I like to stick to, like re-baseing on __pull__s. You can also really speed things up by linking shorthands; `addall;amend` or `pull;push`.
